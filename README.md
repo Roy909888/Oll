@@ -39,3 +39,4 @@ def get_predictions(sport):
     return predictions
 
 bot.polling()
+bot.set_webhook(https://github.com/Roy909888/Oll/edit/main/README.py)
